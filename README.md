@@ -7,3 +7,4 @@ Words
 
 Here is some more text
 
+*This will be italic* and here is some ^superscript^.
