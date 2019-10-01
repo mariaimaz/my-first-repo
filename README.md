@@ -7,4 +7,13 @@ Words
 
 Here is some more text
 
-*This will be italic* and here is some ^superscript^.
+*This will be italic* and here is some ^superscript^ .
+
+## a table
+
+|col1|col2|
+|----|----|
+|val1|val2|
+
+
+
